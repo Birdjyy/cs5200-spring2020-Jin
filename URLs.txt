@@ -1,0 +1,4 @@
+https://github.com/Birdjyy/cs5200-spring2020-Jin
+cs5200-spring2020-Jin.us-east-2.elasticbeanstalk.com
+cs5200-spring2020-Jin.us-east-2.elasticbeanstalk.com/api/hello/string
+cs5200-spring2020-Jin.us-east-2.elasticbeanstalk.com/api/hello/object
